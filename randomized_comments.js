@@ -35,6 +35,7 @@ let commentplaceholders = [
     "\"Позвоните мне для справки о поиске: 8-800-555-35-35\" ©️ Okayu-chan",
     "\"Где я? Кто я? Что я?\" ©️ TheDariol",
     "\":achevsmysle:\"",
+    "\"чел ты... комментарий пиши давай :sliva:\" ©️ TheFerryn",
     "Вставьте и ВЫ свой комментарий! https://github.com/sqdsh/boticord-comments"
 ];
 
