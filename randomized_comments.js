@@ -25,6 +25,7 @@ let commentplaceholders = [
     "\"Напиши свой крутой комментарий и получи Discord Nitro!\" ©️ kotfix.",
     "\"ЕЩЁ И ПОДРОБНЫЙ КОММЕНТАРИЙ!\" ©️ GenAi (boticord.top/bot/genai)",
     "\"мы растем\" ©️ GenAi (boticord.top/bot/genai)",
+    "\"Где я? Кто я? Что я?\" ©️ TheDariol",
     "\"Введите комментарий...\" ©️ SMOKY PLAY",
     "\":kavo:\" ©️ Mrsasha45op",
     "\"Позвоните мне для справки о поиске: 8-800-555-35-35\" ©️ Okayu-chan",
