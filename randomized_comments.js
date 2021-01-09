@@ -39,7 +39,7 @@ let commentplaceholders = [
     "Вставьте и ВЫ свой комментарий! https://github.com/sqdsh/boticord-comments",
     "https://www.youtube.com/watch?v=dQw4w9WgXcQ ©️ sadnessmilkshake",
     "\"Чумба, ты совсем ***? Сходи к мозгоправу, побей колёсики.\" ©️ Ski.. А, не, это MrLivixx",
-    "\"С новым майсом\" ©️ lapfed255"
+    "\"С новым майсом\" ©️ egor_m"
 ];
 
 let randomizedcomment = commentplaceholders[Math.floor(Math.random() * commentplaceholders.length)];
