@@ -11,7 +11,7 @@ let commentplaceholders = [
     "\"Москва проснулась\" ©️ D1nos4urr",
     "\":kavo:\" ©️ Redichka (perssBest)",
     "\"Ало че ищешь?\" ©️ Redichka (perssBest)",
-    "\"Че смотришь, пиши бля\" ©️ Redichka (perssBest)",
+    "\"Чё смотришь, пиши уже\" ©️ Redichka (perssBest)",
     "\"Ну.. Напиши уже что-нибудь...\" ©️ Redichka (perssBest)",
     "\"Ну так ты писать будешь или мне самим написать?\" ©️ Redichka (perssBest)",
     "\"ААААААААААААА\" ©️ Redichka (perssBest)",
@@ -36,10 +36,10 @@ let commentplaceholders = [
     "\"Где я? Кто я? Что я?\" ©️ TheDariol",
     "\":achevsmysle:\"",
     "\"чел ты... комментарий пиши давай :sliva:\" ©️ TheFerryn",
-    "Вставьте и ВЫ свой комментарий! https://github.com/sqdsh/boticord-comments",
     "https://www.youtube.com/watch?v=dQw4w9WgXcQ ©️ sadnessmilkshake",
     "\"Чумба, ты совсем ***? Сходи к мозгоправу, побей колёсики.\" ©️ Ski.. А, не, это MrLivixx",
-    "\"С новым майсом\" ©️ egor_m"
+    "\"С новым майсом\" ©️ egor_m",
+    "Вставьте и ВЫ свой комментарий! https://github.com/sqdsh/boticord-comments"
 ];
 
 let randomizedcomment = commentplaceholders[Math.floor(Math.random() * commentplaceholders.length)];
