@@ -38,6 +38,7 @@ let commentplaceholders = [
     "\"чел ты... комментарий пиши давай :sliva:\" ©️ TheFerryn",
     "https://www.youtube.com/watch?v=dQw4w9WgXcQ ©️ sadnessmilkshake",
     "Люблю Егора ❤ ©️ sadnessmilkshake",
+    "Вайфу Влада ❤ ©️ sadnessmilkshake",
     "\"Чумба, ты совсем ***? Сходи к мозгоправу, побей колёсики.\" ©️ Ski.. А, не, это MrLivixx",
     "\"С новым майсом\" ©️ egor_m",
     "Вставьте и ВЫ свой комментарий! https://github.com/sqdsh/boticord-comments"
