@@ -3,7 +3,6 @@ let commentplaceholders = [
     "\"Введите сюда свой замечательный, взвешенный и неподкупный комментарий к боту!\" ©️ VARE",
     "\"Введите сюда свой отвратительный, ненужный и подкупный комментарий к боту!\" ©️ VARE",
     "\"Тыкайте по буковкам, чтобы написать слова\" ©️ egor_m",
-    "\"Это что???\" ©️ egor_m",
     "\":troled: :thumbsup:\" ©️ KosEnO4eK",
     "\"Чё каво? Куда? Откуда как? А чё круто.\" ©️ KosEnO4eK",
     "\":niko_upset:\" ©️ vlfz",
@@ -39,7 +38,7 @@ let commentplaceholders = [
     "https://www.youtube.com/watch?v=dQw4w9WgXcQ ©️ sadnessmilkshake",
     "Люблю Егора ❤ ©️ sadnessmilkshake",
     "Вайфу Влада ❤ ©️ sadnessmilkshake",
-    "\"Чумба, ты совсем ***? Сходи к мозгоправу, побей колёсики.\" ©️ Ski.. А, не, это MrLivixx",
+    "\"Чумба, ты совсем ***? Сходи к мозгоправу, попей колёсики.\" ©️ MrLivixx",
     "\"С новым майсом\" ©️ egor_m",
     "Вставьте и ВЫ свой комментарий! https://github.com/sqdsh/boticord-comments"
 ];
