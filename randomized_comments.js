@@ -4,6 +4,8 @@ let commentplaceholders = [
     "\"Введите сюда свой отвратительный, ненужный и подкупный комментарий к боту!\" ©️ VARE",
     "\"Тыкайте по буковкам, чтобы написать слова\" ©️ egor_m",
     "\":troled: :thumbsup:\" ©️ KosEnO4eK",
+    "\"до связи\" ©️ elemelkya",
+    "\"super-botsuper-botsuper-botsuper-botsuper-\" ©️ elemelkya",
     "\"Чё каво? Куда? Откуда как? А чё круто.\" ©️ KosEnO4eK",
     "\":niko_upset:\" ©️ vlfz",
     "\":niko_uwu:\" ©️ vlfz",
