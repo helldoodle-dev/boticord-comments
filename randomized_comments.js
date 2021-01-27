@@ -7,8 +7,8 @@ let commentplaceholders = [
     "\"до связи\" ©️ elemelkya",
     "\"super-botsuper-botsuper-botsuper-botsuper-\" ©️ elemelkya",
     "\"Чё каво? Куда? Откуда как? А чё круто.\" ©️ KosEnO4eK",
-    "\":niko_upset:\" ©️ vlfz",
-    "\":niko_uwu:\" ©️ vlfz",
+    "\"эхх..\" ©️ sadlycipherka",
+    "\"ну пиши уже сюда.\" ©️ sadlycipherka",
     "\"Москва проснулась\" ©️ D1nos4urr",
     "\":kavo:\" ©️ Redichka (perssBest)",
     "\"Ало че ищешь?\" ©️ Redichka (perssBest)",
@@ -50,7 +50,18 @@ let commentplaceholders = [
     "\"Чтобы написать коментарий, нужно забить гвоздь в кнопку Enter\" ©️ MrLivixx",
     "\"حسنًا ، لماذا قررت ترجمتها ...😂😂😂\" ©️ arslee",
     "\"Напиши здесь свой няшный комментарий, милашка.\" © Масерка",
-    "Вставьте и ВЫ свой комментарий! https://github.com/sqdsh/boticord-comments"
+    "Вставьте и ВЫ свой комментарий! https://github.com/sqdsh/boticord-comments",
+    "\"Ох уж эти питонисты...\" ©️ Harume", // Осуждаю
+    "\"ReferenceError: BotiCord is not function\" ©️ Harume",
+    "\"Чёрт... и это как вариант!\" ©️ Harume",
+    "\"CTRL+F5\" ©️ elemelkya",
+    "\"ЕЩЕ РАЗ ПОВТОРЯЮ: CTRL+F5\" ©️ elemelkya",
+    "\"Вот ты ему ручкой машешь, а он тебя ^_^ хочет!\" ©️ evgen1y",
+    "\"やめてください\" ©️ evgen1y",
+    "\"А как тут что переключать\" ©️ MillerD3V",
+    "\"КУДА ТЫКОТЬ?????\" ©️ MillerD3V",
+    "\"Смотри сюда :persevere:\" ©️ MillerD3V",
+    "\":zhmihClown:\" ©️ MillerD3V"
 ];
 
 let randomizedcomment = commentplaceholders[Math.floor(Math.random() * commentplaceholders.length)];
