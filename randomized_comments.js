@@ -63,7 +63,8 @@ let commentplaceholders = [
     "\"А как тут что переключать\" ©️ MillerD3V",
     "\"КУДА ТЫКОТЬ?????\" ©️ MillerD3V",
     "\"Смотри сюда :persevere:\" ©️ MillerD3V",
-    "\":zhmihClown:\" ©️ MillerD3V"
+    "\":zhmihClown:\" ©️ MillerD3V",
+    "\"Uncaught TypeError: Cannot read property comment of undefined\" ©️ Tegnio"
 ];
 
 let randomizedcomment = commentplaceholders[Math.floor(Math.random() * commentplaceholders.length)];
